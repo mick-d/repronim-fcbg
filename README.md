@@ -8,13 +8,13 @@
 # Module 2: Reproducible Data Science Basics
 -----------------------------------------------------------
 
-* ## Workshop 2 : Linux and the command-line [180 mins]
+* ## Workshop 2 : Linux and the command-line [120 mins]
   * Linux filesystem
   * Mastering the shell (e.g. bash)
   * More Shell Features
   * System administration
 
-* ## Workshop 3: Version Control System: Git [180 mins]
+* ## Workshop 3: Version Control System: Git [120 mins]
   * Git basics
   * Changes, Branches
   * Merging, Remotes
@@ -35,24 +35,24 @@
 # Module 3: Reproducible Neuroimaging Basics Module
 -----------------------------------------------------------
 
-* ## Workshop 6: FAIR DATA [180 mins]
+* ## Workshop 6: FAIR DATA [120 mins]
   * FAIR Principles
   * BIDS / heudiconv / pybids
   * NIDM
 
 
-* ## Workshop 7: data processing [180 mins]
+* ## Workshop 7: data processing [120 mins]
   * NiLearn / NiPy / DiPy
   * NiPype
   * Boutiques
 
 
-* ## Workshop 8: sum-up with own project implementation [180 mins]
+* ## Workshop 8: sum-up with project implementation examples (GLM analysis) [180 mins]
 
 
 -----------------------------------------------------------
 
-# Module 4: Statistics & Machine Learning Basics
+# Module 4: Statistics & Machine Learning Basics (in next 2020 workshop)
 -----------------------------------------------------------
 
 * ## Workshop 9: Statistics basics [180 mins]
